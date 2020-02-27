@@ -19,6 +19,10 @@
     <!-- 子模块 -->
     <modules>
         <module>jojo-admin</module>
+        <module>jojo-common</module>
+        <module>jojo-mbg</module>
+        <module>jojo-security</module>
+
     </modules>
 
     <name>jojo-master</name>
@@ -44,9 +48,9 @@
         <aliyun-oss.version>2.5.0</aliyun-oss.version>
         <logstash-logback.version>4.8</logstash-logback.version>
         <minio.version>3.0.10</minio.version>
-        <mall-common.version>1.0-SNAPSHOT</mall-common.version>
-        <mall-mbg.version>1.0-SNAPSHOT</mall-mbg.version>
-        <mall-security.version>1.0-SNAPSHOT</mall-security.version>
+        <jojo-common.version>1.0-SNAPSHOT</jojo-common.version>
+        <jojo-mbg.version>1.0-SNAPSHOT</jojo-mbg.version>
+        <jojo-security.version>1.0-SNAPSHOT</jojo-security.version>
     </properties>
 
     <dependencies>

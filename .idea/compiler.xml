@@ -2,18 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jojo-admin" />
         <module name="jojo-common" />
+        <module name="jojo-mbg" />
+        <module name="jojo-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jojo-admin" target="1.8" />
       <module name="jojo-common" target="1.8" />
       <module name="jojo-master" target="1.8" />
+      <module name="jojo-mbg" target="1.8" />
+      <module name="jojo-mgb" target="1.8" />
+      <module name="jojo-security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

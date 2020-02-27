@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/jojo-admin/jojo-admin.iml" filepath="$PROJECT_DIR$/jojo-admin/jojo-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/jojo-common/jojo-common.iml" filepath="$PROJECT_DIR$/jojo-common/jojo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/jojo-master.iml" filepath="$PROJECT_DIR$/jojo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-mbg/jojo-mbg.iml" filepath="$PROJECT_DIR$/jojo-mbg/jojo-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-security/jojo-security.iml" filepath="$PROJECT_DIR$/jojo-security/jojo-security.iml" />
     </modules>
   </component>
 </project>
