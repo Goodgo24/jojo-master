@@ -22,6 +22,7 @@
         <module>jojo-common</module>
         <module>jojo-mbg</module>
         <module>jojo-security</module>
+        <module>jojo-web</module>
 
     </modules>
 
