@@ -10,6 +10,7 @@
         <module name="jojo-common" />
         <module name="jojo-mbg" />
         <module name="jojo-security" />
+        <module name="jojo-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="jojo-mbg" target="1.8" />
       <module name="jojo-mgb" target="1.8" />
       <module name="jojo-security" target="1.8" />
+      <module name="jojo-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
